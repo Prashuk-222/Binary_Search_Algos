@@ -1,1 +1,3 @@
 # Binary_Search_Algos
+
+This is the reopsitory which contain the famous algorithm used in Binary Search....
